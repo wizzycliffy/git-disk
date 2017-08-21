@@ -2,7 +2,7 @@
 warri boys in action..lol
 ***/
 	 function downloadLink(){
-	 window.location="pinpower fly.png";
+	 window.location="pinepower fly.png";
 	 }  
 	
 	 function ask(){
