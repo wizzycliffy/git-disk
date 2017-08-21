@@ -2,7 +2,7 @@
 warri boys in action..lol
 ***/
 	 function downloadLink(){
-	 location.assign("http://google.com");
+	 window.location="pinpower fly.png";
 	 }  
 	
 	 function ask(){
@@ -28,7 +28,7 @@ warri boys in action..lol
 }
 function checkAmount(amount){
 	 if (amount == 20){
-	    alert("Good son! We have  freed your matter, you can now download your flier");
+	    alert("Yeah! that's a good son of Nnewi! We have  freed your matter, you can now download your flier");
 	     downloadLink();
     }else { alert("invalid amount, only 20million USD can settle us!"); 
 	    location.reload(); 
